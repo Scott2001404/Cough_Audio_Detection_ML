@@ -93,21 +93,6 @@ Planned Features:
 
 ---
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss.
-
-1. Fork the repository
-2. Create a new branch
-3. Make changes and commit
-4. Submit a pull request
-
----
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
 ## Contact
 Email: [akaqinlang@gmail.com](mailto:akaqinlang@gmail.com)
-GitHub: [Scottqin404](https://github.com/Scottqin404)
+GitHub: [Scottqin2001404](https://github.com/Scottqin2001404)
