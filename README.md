@@ -95,4 +95,4 @@ Planned Features:
 
 ## Contact
 Email: [akaqinlang@gmail.com](mailto:akaqinlang@gmail.com)
-GitHub: [Scottqin2001404](https://github.com/Scottqin2001404)
+GitHub: [Scott2001404](https://github.com/Scott2001404)
