@@ -4,7 +4,3 @@ librosa
 pandas
 streamlit
 soundfile
-
-git add requirements.txt
-git commit -m "Added sounddevice to requirements"
-git push origin main
