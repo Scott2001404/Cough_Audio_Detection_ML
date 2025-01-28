@@ -17,7 +17,7 @@ This project is a real-time cough detection system built using Python, Streamlit
 ## Installation & Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Cough_Detection_AI.git
+git clone https://github.com/your-username/Cough_Detection_ML.git
 cd Cough_Detection_AI
 ```
 
