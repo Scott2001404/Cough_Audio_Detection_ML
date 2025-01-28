@@ -62,8 +62,8 @@ After launching the app, select a mode:
 
 ## Project Structure
 ```
-Cough_Detection_AI/
-│── app.py                 # Main Streamlit App
+Cough_Detection_ML/
+│── app7.py                 # Main Streamlit App
 │── Random_forrest.pkl     # Pre-trained ML Model
 │── requirements.txt       # Dependencies
 │── data/
